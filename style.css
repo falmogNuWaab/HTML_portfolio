@@ -1,0 +1,10 @@
+html                {height:95%;width:100%;margin:0px; border:0;padding:0;}
+body                {height:100%;width:100%;margin:0px; border:0;padding:0; background-color: aquamarine;}
+#navDiv li          {display:inline-block; padding:5px;}
+#navDiv a           {color:black; border-radius: 20px; padding-left: 10px; padding-right:10px;}
+#navDiv a:link, a:active, a:visited      {text-decoration: none;background-color: green;}
+#navDiv a:hover   {text-decoration: none; font-weight:bold; background-color:blueviolet; color:whitesmoke} 
+#navDiv             {text-align: center; width:auto; height:10%; background-color: aquamarine;}
+#bodyDiv            {text-align: right; width:auto; height:80%; padding:0; margin:0;}
+#footerDiv          {text-align: right;}
+#mainFrame          {border:0; width: 100%; height:100%; align-self:right;}
